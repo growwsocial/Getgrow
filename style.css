@@ -1196,3 +1196,10 @@
         box-shadow:0 0 0 0 rgb(86,180,177,.2)
     }
 }
+ .custom-image {
+        width: 250px;   /* Set the width */
+        height: 60px;  /* Set the height */
+        position: absolute;  /* Set the position type */
+        top: -10px;      /* Set the top position */
+        left: 10px;     /* Set the left position */
+  }
